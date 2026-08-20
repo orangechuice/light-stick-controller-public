@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A lightstick: glowing bulb on a handle. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FF6FA8"
+        android:pathData="M54,26m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,42h10v30h-10z" />
+    <path
+        android:fillColor="#8C8AA6"
+        android:pathData="M46,72h16v14h-16z" />
+</vector>

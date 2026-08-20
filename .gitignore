@@ -1,0 +1,21 @@
+# Android / Gradle
+build/
+.gradle/
+local.properties
+.cxx/
+*.iml
+.idea/
+.kotlin/
+
+# Never commit a signing key or a built APK — releases are built by CI
+*.jks
+*.keystore
+*.apk
+
+# Bluetooth captures contain all BT traffic from the capturing phone.
+# Findings belong in protocols/protocol-<device>.md, written by hand.
+captures/
+*.btsnoop
+btsnoop_hci.log*
+
+.DS_Store
