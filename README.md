@@ -5,6 +5,14 @@ An open-source Android app that drives K-pop lightsticks over Bluetooth Low Ener
 > **Note:** Supports **KATSEYE OLS**, **XG Lightstick**, **IVE Lightstick**,
 > **TWICE Lightstick (CANDY BONG ∞)**, and the **aespa Official Light Stick Ver. 2**.
 
+## Screenshots
+
+| Colour and patterns | Music sync | Paired devices |
+|---|---|---|
+| ![Colour sliders, presets and the debug readout](docs/screenshots/colour-controls.png) | ![Music sync modes with live audio levels](docs/screenshots/music-sync.png) | ![Paired lightsticks with their addresses redacted](docs/screenshots/paired-devices.png) |
+
+Bluetooth addresses are redacted in these screenshots.
+
 ## Features
 
 - **Arbitrary RGB colour** — pick any colour, not just the vendor palette
